@@ -1,4 +1,4 @@
-# -GreenCrow-USDTMiner
+# GreenCrow-USDTMiner
 Legitimate cloud usdt miner
 <img src="screenshot.png">
 <hr>
